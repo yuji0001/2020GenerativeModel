@@ -4,6 +4,15 @@ Generative Modelのテストに使います．
 
 ## Description
 - ``rescaling.*`` : 再スケーリング関係の検討
+- ``data/*`` : SMILESとgapデータ. [QM9](http://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904)から抽出
+
+## Requirement
+ 
+- python 3.x.x
+- numpy 
+- pandas
+- matplotlib
+- RDKit (condaでインストルールが必要)
 
 ## License
 
